@@ -4,7 +4,7 @@ title:      文献总结《Learning Spatiotemporal Features with 3D Convolutiona
 subtitle:   使用3D卷积神经网络学习时空特征
 date:       2019-04-21
 author:     王沛
-header-img: img/cpvr2018.jpg
+header-img: img/CVPR2018.jpg
 catalog: true
 tags:
     - CNN
