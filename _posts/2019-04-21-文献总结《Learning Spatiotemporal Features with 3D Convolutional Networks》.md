@@ -4,7 +4,7 @@ title:      文献总结《Learning Spatiotemporal Features with 3D Convolutiona
 subtitle:   使用3D卷积神经网络学习时空特征
 date:       2019-04-21
 author:     王沛
-header-img: img/github-universe.png
+header-img: img/cpvr2018.jpg
 catalog: true
 tags:
     - CNN
@@ -66,7 +66,7 @@ tags:
 
 ### 8. My Implementation  
 
-使用TensorFlow复现的代码在 [这里](https://github.com/Xiaokeai18/C3D-tensorflow)  
+使用TensorFlow复现的代码点击 [这里](https://github.com/Xiaokeai18/C3D-tensorflow)  
 
 不加载预训练模型，使用OpenCV resize原始图像，保存为float64形式，训练8000轮，BATCH_SIZE=10，训练结果如下图：  
 ![result](/img/post2-result.png)  
