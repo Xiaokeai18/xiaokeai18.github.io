@@ -4,7 +4,7 @@ title:      搭建个人博客教程(基于github pages和jekyll)
 subtitle:   The simplest way of building a personal website based on github pages and jekyll
 date:       2019-04-21
 author:     王沛
-header-img: img/post-bg-github-cup.jpg
+header-img: img/github-universe.png
 catalog: true
 tags:
     - github
@@ -18,8 +18,7 @@ tags:
 
 [Github Pages](https://pages.github.com/)的出现，使得搭建个人静态网站变得更加容易，省去了租用服务器的麻烦，事实上，Github给用户提供了免费的服务器。本文就是基于Github Pages建立的个人网站。  
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="420" height="315" src="//player.bilibili.com/player.html?aid=20455039&cid=33439692&page=1" scrolling="yes" frameborder="0" allowfullscreen="true"></iframe>
 
 [jekyll](https://jekyllrb.com/)是一种将纯文本转换成静态网站的工具(软件)，它的使用方法再[官网](https://jekyllrb.com/)上有详细介绍,本文将介绍基本配置方法，省去了其他教程里的繁琐的安装过程。
 
