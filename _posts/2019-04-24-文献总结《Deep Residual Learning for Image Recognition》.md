@@ -54,7 +54,7 @@ tags:
 ### 4. 网络结构：
 ![architecture](/img/post3-architecture.png)   
 左边为VGG-19,中间为‘Plain Network’,右边为‘Residual Network’  
-下图Table1展示李ResNet更多的架构：  
+下图Table1展示了ResNet更多的架构：  
 ![architecture1](/img/post3-architecture1.png)   
 
 
