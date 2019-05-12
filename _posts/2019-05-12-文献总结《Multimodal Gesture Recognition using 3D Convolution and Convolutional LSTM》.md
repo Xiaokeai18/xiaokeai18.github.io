@@ -69,9 +69,9 @@ tags:
     2.	卷积LSTM（ConvLSTM）同时具有输入状态和状态转换的卷积结构，能够针对时空关系很好地建模；  
     3.	ConvLSTM的输入X1,X2...Xt，神经元状态C1,C2,C3....Ct和隐藏层状态H1,H2,H3....Ht以及各个门(gates)都是三维张量，并且最后两维是空间维度；   
 
-      **公式**：
-      ![formula](/img/post4-formula.png)    
-      这里的*表示卷积。
+    **公式**：
+    ![formula](/img/post4-formula.png)    
+    这里的*表示卷积。
 
 - Spatial Pyramid Pooling  
     1.	3-D CNN仅在空间域上以小的4的比例缩小图像，并且ConvLSTM组件不改变特征图的空间大小  
