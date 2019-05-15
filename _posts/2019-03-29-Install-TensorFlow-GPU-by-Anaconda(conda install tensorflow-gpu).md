@@ -32,7 +32,8 @@ Thus I strongly reconmend you not to do this, there's a much easier way to insta
 
 One of the advantage of anaconda is that it can create **isolated environment** in your device, and you can configure any libraries and toolkits in the 'env' without affect other environment. Once you are nor satisfied of your configuration, you can simplily delete the environment.
 
-Note that in you are in **China**, download anaconda might take a long time due to some resons that cannot say. Instead, you can download it from [**Tsinghua mirror**](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/), and install it **manually**.  
+[//]: # (Note that in you are in **China**, download anaconda might take a long time due to some resons that cannot say. Instead, you can download it from Tsinghua mirror and install it **manually**.  )
+
 
 After downloading this successfully, try to run the installation file.
 For example, if you use ubuntu, you can cd to the path of the sh file and run the following command:
@@ -66,13 +67,6 @@ source activete tf
 ```
 ![picture2](/img/20190328post2.jpg)  
 
-For Chinese users, before starting the installation, you may change the source of conda as the same reason before. For more details, read the webcite of [Tsinghua Mirror](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/).
-Chinese users should type in this:
-```bash
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-conda config --set show_channel_urls yes
-```
 
 
 Afterwards, type in the command to install TensorFlow you need:
