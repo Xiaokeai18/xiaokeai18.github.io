@@ -14,6 +14,7 @@ tags:
 
 ## 目标检测经典算法总结 
 
+[原手稿](/download/object-detection-overview.pdf)在这里 [pdf](/download/object-detection-overview.pdf)    
 
 ### 1.	R-CNN： 
 
