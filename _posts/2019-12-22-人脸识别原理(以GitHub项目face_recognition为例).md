@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      人脸识别原理(以GitHub项目face_recognition为例)
-subtitle:   
+subtitle:   Face Recognition based on DNN
 date:       2019-12-22
 author:     王沛
 header-img: img/lfw.jpg
